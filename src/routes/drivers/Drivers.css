@@ -1,0 +1,31 @@
+.Driver-row {
+    height: 40px;
+}
+
+.Driver-row-column {
+    /* font-size: 13px; */
+}
+
+.Driver-trace {
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+}
+
+.Driver-trace-header {
+    width: 35px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.Driver-activity-group {
+    /* font-size: 11px; */
+}
+
+.Green {
+    background-color: green;
+}
+
+.mr-2 {
+    margin-right: 2px;
+}
